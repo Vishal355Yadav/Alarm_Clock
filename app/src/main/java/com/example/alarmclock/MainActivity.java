@@ -34,9 +34,6 @@ public class MainActivity extends AppCompatActivity {
                 //some code to be written
 
                 return true;
-            case R.id.stopwatch:
-                //some code to be written
-                return true;
             case R.id.about_us:
                 //some code needed
                 Intent intent= new Intent(this,AboutUsActivity.class);
